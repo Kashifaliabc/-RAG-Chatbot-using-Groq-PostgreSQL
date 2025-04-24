@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain
+langchain-groq
+langchain-community
+openai
+psycopg2-binary
+sqlalchemy
+pypdf
